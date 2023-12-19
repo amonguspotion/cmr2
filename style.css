@@ -1,0 +1,10 @@
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: maroon;
+}
+
+#result1, #result2, #result3{
+    border-radius: 25px;
+    box-shadow: 10px;
+}
